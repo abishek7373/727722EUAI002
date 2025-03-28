@@ -1,0 +1,51 @@
+{
+    "primes": [
+      { "id": 1, "value": 2 },
+      { "id": 2, "value": 3 },
+      { "id": 3, "value": 5 },
+      { "id": 4, "value": 7 },
+      { "id": 5, "value": 11 },
+      { "id": 6, "value": 13 },
+      { "id": 7, "value": 17 },
+      { "id": 8, "value": 19 },
+      { "id": 9, "value": 23 },
+      { "id": 10, "value": 29 }
+    ],
+    "fibonacci": [
+      { "id": 1, "value": 0 },
+      { "id": 2, "value": 1 },
+      { "id": 3, "value": 1 },
+      { "id": 4, "value": 2 },
+      { "id": 5, "value": 3 },
+      { "id": 6, "value": 5 },
+      { "id": 7, "value": 8 },
+      { "id": 8, "value": 13 },
+      { "id": 9, "value": 21 },
+      { "id": 10, "value": 34 }
+    ],
+    "even": [
+      { "id": 1, "value": 2 },
+      { "id": 2, "value": 4 },
+      { "id": 3, "value": 6 },
+      { "id": 4, "value": 8 },
+      { "id": 5, "value": 10 },
+      { "id": 6, "value": 12 },
+      { "id": 7, "value": 14 },
+      { "id": 8, "value": 16 },
+      { "id": 9, "value": 18 },
+      { "id": 10, "value": 20 }
+    ],
+    "random": [
+      { "id": 1, "value": 14 },
+      { "id": 2, "value": 67 },
+      { "id": 3, "value": 3 },
+      { "id": 4, "value": 88 },
+      { "id": 5, "value": 52 },
+      { "id": 6, "value": 99 },
+      { "id": 7, "value": 27 },
+      { "id": 8, "value": 42 },
+      { "id": 9, "value": 75 },
+      { "id": 10, "value": 18 }
+    ]
+  }
+  
